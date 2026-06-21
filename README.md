@@ -125,14 +125,11 @@ Applied machine learning techniques including K-Means clustering to analyze agri
 - Cybersecurity Analyst
 - Information Systems Manager
 - Data Analyst
-- Software Developer
 - IT Project Manager
 - Security Consultant
 
 
 ## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
 - LinkedIn: Add Your LinkedIn Profile
 - Email:tongor.kn@gmail.com
 
